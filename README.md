@@ -1,4 +1,4 @@
-# MBTI-datshboard
+# MBTI-dashboard
 
 ![image](https://user-images.githubusercontent.com/65265790/123547196-cc73ab00-d79a-11eb-843e-acdfd9ba082b.png)
 
